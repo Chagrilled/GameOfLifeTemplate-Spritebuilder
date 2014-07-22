@@ -2072,8 +2072,6 @@
 		<string>MainScene</string>
 		<key>displayName</key>
 		<string>CCNode</string>
-		<key>hidden</key>
-		<true/>
 		<key>memberVarAssignmentName</key>
 		<string></string>
 		<key>memberVarAssignmentType</key>
@@ -2122,7 +2120,7 @@
 				<string>Point</string>
 				<key>value</key>
 				<array>
-					<real>1.0001169443130493</real>
+					<real>0.0</real>
 					<real>0.0</real>
 				</array>
 			</dict>
