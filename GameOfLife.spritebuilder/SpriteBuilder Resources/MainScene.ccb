@@ -2066,14 +2066,14 @@
 						</array>
 					</dict>
 				</array>
-				<key>selected</key>
-				<true/>
 			</dict>
 		</array>
 		<key>customClass</key>
 		<string>MainScene</string>
 		<key>displayName</key>
 		<string>CCNode</string>
+		<key>hidden</key>
+		<true/>
 		<key>memberVarAssignmentName</key>
 		<string></string>
 		<key>memberVarAssignmentType</key>
@@ -2122,8 +2122,8 @@
 				<string>Point</string>
 				<key>value</key>
 				<array>
-					<real>0.5</real>
-					<real>0.5</real>
+					<real>1.0001169443130493</real>
+					<real>0.0</real>
 				</array>
 			</dict>
 			<dict>
@@ -2140,6 +2140,8 @@
 				</array>
 			</dict>
 		</array>
+		<key>selected</key>
+		<true/>
 	</dict>
 	<key>notes</key>
 	<array/>
