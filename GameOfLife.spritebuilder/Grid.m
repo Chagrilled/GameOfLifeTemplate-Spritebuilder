@@ -164,8 +164,9 @@ _generation++;
             {
                 currentCreature.isAlive = false;
             }
-                     
         }
     }
+    _totalAlive = numAlive;
 }
+
 @end
